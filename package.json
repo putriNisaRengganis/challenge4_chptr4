@@ -1,0 +1,22 @@
+{
+  "name": "ch4-clnge4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.11.0",
+    "crypto": "^1.0.1",
+    "express": "^4.19.2",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "prisma": "^5.11.0"
+  }
+}
